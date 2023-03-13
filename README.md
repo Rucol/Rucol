@@ -4,9 +4,7 @@
 - 👯 I’m looking to collaborate on some c# projects
 - 📫 My e mail address: rucki12@interia.pl
 - 💬 My Discord: Rucol#4357
-<ul>
-  <li>bry</li>
-</ul>
+<img src="C++.jpg"/>
 
 
 <!--
