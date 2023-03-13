@@ -8,6 +8,7 @@
   img{
   width = 30px;
   height = 30px;
+ }
 </style>
 <img src="https://panoramakutna.pl/wp-content/uploads/2021/01/dlaczego-c-jest-swietny-dla-poczatkujacych.jpg" alt="C++"/>
 
