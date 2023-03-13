@@ -5,7 +5,7 @@
 - 📫 My e mail address: rucki12@interia.pl
 - 💬 My Discord: Rucol#4357
 
-<img src="https://panoramakutna.pl/wp-content/uploads/2021/01/dlaczego-c-jest-swietny-dla-poczatkujacych.jpg" alt="C++" width = "100" height = "100"/>
+<img src="https://panoramakutna.pl/wp-content/uploads/2021/01/dlaczego-c-jest-swietny-dla-poczatkujacych.jpg" alt="C++" width = "120" height = "100"/>
 
 
 <!--
