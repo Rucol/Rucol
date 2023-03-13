@@ -4,7 +4,12 @@
 - 👯 I’m looking to collaborate on some c# projects
 - 📫 My e mail address: rucki12@interia.pl
 - 💬 My Discord: Rucol#4357
-<img src="https://panoramakutna.pl/wp-content/uploads/2021/01/dlaczego-c-jest-swietny-dla-poczatkujacych.jpg"/>
+ <style>
+  img{
+  width = 30px;
+  height = 30px;
+</style>
+<img src="https://panoramakutna.pl/wp-content/uploads/2021/01/dlaczego-c-jest-swietny-dla-poczatkujacych.jpg" alt="C++"/>
 
 
 <!--
