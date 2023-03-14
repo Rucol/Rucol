@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning c#, java and javascript
+- 🌱 I’m currently learning c#, java and javascript.
+- 🔭 I’m currently working on some c#, java and javaStript pojects
 - 👯 I’m looking to collaborate on some c# projects
 - 📫 My e mail address: rucki12@interia.pl
 - 💬 My Discord: Rucol#4357
