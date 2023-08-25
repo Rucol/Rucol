@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning c#, java and javascript.
+- 🌱 I’m currently learning T-SQL, c#, java and javascript.
 - 🔭 I’m currently working on some c#, java and javaStript pojects
-- 👯 I’m looking to collaborate on some c# projects
+- 👯 I’m looking to collaborate on some c#/SQL projects
 - 📫 My e mail address: rucki12@interia.pl
 - 💬 My Discord: Rucol#4357
 <div>
