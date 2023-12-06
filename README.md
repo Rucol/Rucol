@@ -10,6 +10,7 @@
 <img src="https://play-lh.googleusercontent.com/U0Re_PSVXwD_dl2owMJjuERpK8UXLwMQysoMDB0kGOL73-TMBOurSbZLLEBQMxA5Lg" alt = "C#" width="120" height="100"/>
 <img src="https://blog.consdata.tech/assets/img/posts/2019-03-22-java-darmowa-czy-nie/java-darmowa.png" alt = "Java" wdith = "120" height = "100"/>
 <img src="https://jaki-jezyk-programowania.pl/img/technologies/javascript.png" alt="JavaScript" width="120" height="100"/>
+<img src="[https://jaki-jezyk-programowania.pl/img/technologies/javascript.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)" alt="JavaScript" width="120" height="100"/>
 </div>
 
 
