@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning T-SQL, c#, java, javascript and Python
-- 🔭 I’m currently working on some T-SQL and Python projects.
+- 🔭 I’m currently working on some Python projects.
 - 👯 I’m looking to collaborate on some c#/SQL/Python projects
 - 📫 My e mail address: rucki12@interia.pl
 - 💬 My Discord: Rucol#4357
