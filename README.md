@@ -8,7 +8,7 @@ I am a **Software Engineer** with a passion for creating efficient and scalable 
 - **Databases:** SQL Server, PostgreSQL, MongoDB
 - **Backend Development:** FastAPI, Django, .NET, Node.js
 - **Frontend Development:** React, Next.js
-- **DevOps & Tools:** Docker, Git, CI/CD Pipelines
+- **DevOps & Tools:** Docker, Git
 
 ## 🚀 What I Do:
 - Build **backend systems** and **microservices**
