@@ -3,9 +3,9 @@
 I am a **Software Engineer** with a passion for creating efficient and scalable applications. As a recent **Computer Science graduate**, I specialize in **Python** and **C#**, but I also have experience in a wide range of technologies.
 
 ## 💻 Technologies & Skills:
-- **Programming Languages:** Python, C#, JavaScript, TypeScript, C++, T-SQL
+- **Programming Languages:** Python, C#, JavaScript, TypeScript, C++, SQL
 - **Machine Learning:** TensorFlow, Data Analysis
-- **Databases:** SQL Server, PostgreSQL, MongoDB
+- **Databases:** MSSQL Server, PostgreSQL, MongoDB
 - **Backend Development:** FastAPI, Django, .NET, Node.js
 - **Frontend Development:** React, Next.js
 - **DevOps & Tools:** Docker, Git
