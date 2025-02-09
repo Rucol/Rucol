@@ -1,10 +1,25 @@
-### Hi there 👋
+# 👋 Hello, I'm Piotr!
 
-- 🌱 I’m currently learning T-SQL, c#, java, javascript and Python
-- 🔭 I’m currently working on some Python projects.
-- 👯 I'm looking for some programming projects to work with :D
-- 📫 My e mail address: rucki12@interia.pl
-- 💬 My Discord: Rucol#4357
+I am a **Software Engineer** with a passion for creating efficient and scalable applications. As a recent **Computer Science graduate**, I specialize in **Python** and **C#**, but I also have experience in a wide range of technologies.
+
+## 💻 Technologies & Skills:
+- **Programming Languages:** Python, C#, JavaScript, TypeScript, C++, T-SQL
+- **Machine Learning:** TensorFlow, Data Analysis
+- **Databases:** SQL Server, PostgreSQL, MongoDB
+- **Backend Development:** FastAPI, Django, .NET, Node.js
+- **Frontend Development:** React, Next.js
+- **DevOps & Tools:** Docker, Git, CI/CD Pipelines
+
+## 🚀 What I Do:
+- Build **backend systems** and **microservices**
+- Develop **ML models** for data-driven applications
+- Work with **databases** and optimize queries
+- Create **full-stack applications** with modern web technologies
+
+## 📫 Let's Connect!
+Feel free to check out my repositories or reach out to collaborate on exciting projects! 😊
+
+
 <div>
 <img src="https://panoramakutna.pl/wp-content/uploads/2021/01/dlaczego-c-jest-swietny-dla-poczatkujacych.jpg" alt="C++" width = "120" height = "100"/>
 <img src="https://play-lh.googleusercontent.com/U0Re_PSVXwD_dl2owMJjuERpK8UXLwMQysoMDB0kGOL73-TMBOurSbZLLEBQMxA5Lg" alt = "C#" width="120" height="100"/>
