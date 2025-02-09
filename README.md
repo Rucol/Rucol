@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning T-SQL, c#, java, javascript and Python
 - 🔭 I’m currently working on some Python projects.
-- 👯 I'm looking for a programming internship
+- 👯 I'm looking for some programming projects to work with :D
 - 📫 My e mail address: rucki12@interia.pl
 - 💬 My Discord: Rucol#4357
 <div>
