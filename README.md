@@ -25,7 +25,7 @@ Feel free to check out my repositories or reach out to collaborate on exciting p
 <img src="https://play-lh.googleusercontent.com/U0Re_PSVXwD_dl2owMJjuERpK8UXLwMQysoMDB0kGOL73-TMBOurSbZLLEBQMxA5Lg" alt = "C#" width="120" height="100"/>
 <img src="https://jaki-jezyk-programowania.pl/img/technologies/javascript.png" alt="JavaScript" width="120" height="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="120" height="100"/>
-<img src="https://lh6.googleusercontent.com/proxy/K_ZwPm31zEpcXFT67qvUX1KMyq4lJ7ELhwuvt7oaapNTIFjuoM8mkOKw3QhJJ7-j6i0KeSB5p2fF36tDqVl32Iecw5td5SLc45UaRi8QoQ" alt="SQL" width="150" height="100"/>
+<img src="https://lh6.googleusercontent.com/proxy/K_ZwPm31zEpcXFT67qvUX1KMyq4lJ7ELhwuvt7oaapNTIFjuoM8mkOKw3QhJJ7-j6i0KeSB5p2fF36tDqVl32Iecw5td5SLc45UaRi8QoQ" alt="SQL" width="200" height="100"/>
 </div>
 
 
